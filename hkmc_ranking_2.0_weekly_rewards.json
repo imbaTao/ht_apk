@@ -1,0 +1,55 @@
+{
+  "rewards": [
+    {
+      "rank": 1,
+      "items": [
+        {
+          "icon": "https://file.maincodetech.com/vip_icon_badge/vip_5_badge.webp",
+          "days": 7
+        },
+        {
+          "icon": "https://file.maincodetech.com/prop-dressup-icon/nlcRx8j6_sMfbJNBW5n5l.png",
+          "days": 7
+        },
+        {
+          "icon": "https://file.maincodetech.com/prop-dressup-icon/lPjhLNJQkSY_FNBGM3bv9.png",
+          "days": 7
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "items": [
+        {
+          "icon": "https://file.maincodetech.com/vip_icon_badge/vip_5_badge.webp",
+          "days": 7
+        },
+        {
+          "icon": "https://file.maincodetech.com/prop-dressup-icon/nlcRx8j6_sMfbJNBW5n5l.png",
+          "days": 7
+        },
+        {
+          "icon": "https://file.maincodetech.com/prop-dressup-icon/lPjhLNJQkSY_FNBGM3bv9.png",
+          "days": 7
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "items": [
+        {
+          "icon": "https://file.maincodetech.com/vip_icon_badge/vip_5_badge.webp",
+          "days": 7
+        },
+        {
+          "icon": "https://file.maincodetech.com/prop-dressup-icon/nlcRx8j6_sMfbJNBW5n5l.png",
+          "days": 7
+        },
+        {
+          "icon": "https://file.maincodetech.com/prop-dressup-icon/lPjhLNJQkSY_FNBGM3bv9.png",
+          "days": 3
+        }
+      ]
+    }
+  ]
+}
